@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  injured: false
+  salary: 9.99
+  date_of_birth: 2011-01-31
+  team: 
+
+two:
+  name: MyString
+  injured: false
+  salary: 9.99
+  date_of_birth: 2011-01-31
+  team: 
